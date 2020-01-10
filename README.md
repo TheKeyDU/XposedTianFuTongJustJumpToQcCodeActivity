@@ -17,9 +17,8 @@ https://stackoverflow.com/questions/56400040/i-use-intent-to-start-an-another-ap
 但是这个亲测是加了壳的，反编译没那么简单。
 ###所以只有万能的xposed来杀鸡用牛刀了。###
 这个模块只有17kb，但是需要xposed的支持。需要安装xposed install和附带的系统组件。
-之前：
- ![image](https://github.com/TheKeyDU/XposedTianFuTongJustJumpToQcCodeActivity/blob/master/%E6%8F%92%E4%BB%B6%E5%90%8E.gif?raw=true)
-之后：
- ![image](https://github.com/TheKeyDU/XposedTianFuTongJustJumpToQcCodeActivity/blob/master/%E5%8E%9F%E5%A7%8B.gif?raw=true)
- 
+##之前：
+![image](https://github.com/TheKeyDU/XposedTianFuTongJustJumpToQcCodeActivity/blob/master/%E5%8E%9F%E5%A7%8B.gif?raw=true)
+##之后：
+![image](https://github.com/TheKeyDU/XposedTianFuTongJustJumpToQcCodeActivity/blob/master/%E6%8F%92%E4%BB%B6%E5%90%8E.gif?raw=true)
  
